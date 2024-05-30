@@ -34,7 +34,17 @@
 //Q07-L1-8P
 //import './assets/main.css';
 
+// import { createApp } from 'vue';
+// import App from 'components/Q07-L1/8P/App5.vue';
+
+// createApp(App).mount('#app');
+//----------------------------------------------------------------------------------------
+// import { createApp } from 'vue';
+// import App from './components/Q07-L1/9P/App4.vue';
+
+// createApp(App).mount('#app');
+//----------------------------------------------------------------------------------------
 import { createApp } from 'vue';
-import App from 'components/Q07-L1/8P/App5.vue';
+import App from './components/Q07-L1/10P/App4.vue';
 
 createApp(App).mount('#app');
